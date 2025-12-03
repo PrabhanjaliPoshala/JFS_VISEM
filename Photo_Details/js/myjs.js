@@ -29,6 +29,7 @@ async function showDetails() {
     satyanadella: "images/satyanadella.jpg",
     AdaLovelace: "images/AdaLovelace.jpg",
     madhu: "images/madhu.jpg",
+    Prabhanjali: "images/Prabhanjali.jpg",
   };
 
   // Mapping details
@@ -49,6 +50,7 @@ async function showDetails() {
     Sundar_Pichai: "Sundar Pichai is the CEO of Google.",
     satyanadella: "Satya Nadella is the CEO of Microsoft.",
     AdaLovelace: "Ada Lovelace was the first computer programmer.",
+    Prabhanjali: "Name: Prabhanjali ,Roll_NO:24955A6613, Branch: AIML",
   };
 
   if (name === "") {
